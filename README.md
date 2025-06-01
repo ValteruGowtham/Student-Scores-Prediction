@@ -47,7 +47,9 @@ To predict the exam score based on the number of hours studied using a **Simple 
    git clone https://github.com/your-username/student-score-prediction.git
    cd student-score-prediction
 2. Install required libraries:
+   ```bash
     pip install -r requirements.txt
 
-3. Run the script or notebook:
+4. Run the script or notebook:
+   ```bash
      python student_score_prediction.py
